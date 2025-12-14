@@ -1,0 +1,11 @@
+pyTelegramBotAPI
+Flask
+psutil
+requests
+urllib3
+colorama
+pycryptodome
+protobuf
+aiohttp
+pytz
+httpx
