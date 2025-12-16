@@ -9,3 +9,4 @@ protobuf
 aiohttp
 pytz
 httpx
+crypto 
